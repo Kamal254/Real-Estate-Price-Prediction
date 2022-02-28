@@ -41,12 +41,18 @@ Step#4: Data Cleaning
         - One Hot encoding
         
 Step#5: Build Machine Learning Model
+        Use K-fold cross validation on various ML model to check best model and perameters for our dataset
 
 Step#6: Testing The model
 
 Step#7: Export the model
+        save model pickle module
 
 Step#8: Export any other important info
+
+# Website 
+  Create a simple website using HTML, CSS, JS and use flask server as backend 
+  Deploye web application and flast server on AWS ec2 instance for production using nigix server
 
 # Data reference
 https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
