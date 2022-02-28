@@ -19,14 +19,17 @@ Sklearn for model building
 Google Colaboratory Notebook
 Python flask for http server
 HTML/CSS/Javascript for UI
-Steps
+# Steps
 We will first build a model using sklearn and linear regression using banglore home prices dataset from kaggle.com.
 Second step would be to write a python flask server that uses the saved model to serve http requests.
 Third component is the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price.
 Step#1: Import the required libraries
+
 Step#2: Load the data
+
 Step#3: Understand the data
         -drop unnecessary columns
+        
 Step#4: Data Cleaning
         - Check for na values
         - Verify unique values of each column
@@ -36,7 +39,15 @@ Step#4: Data Cleaning
         - Outlier removal using domain knowledge (2bhk price < 3bhk price, size per bhk >= 300 sqft)
         - Outlier removal using standard eviation and mean
         - One Hot encoding
+        
 Step#5: Build Machine Learning Model
+
 Step#6: Testing The model
+
 Step#7: Export the model
+
 Step#8: Export any other important info
+
+# Data reference
+https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
+
