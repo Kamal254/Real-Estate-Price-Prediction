@@ -52,7 +52,7 @@ Step#8: Export any other important info
 
 # Website 
   Create a simple website using HTML, CSS, JS and use flask server as backend 
-  Deploye web application and flast server on AWS ec2 instance for production using nigix server
+  Deploye web application and flask server on AWS ec2 instance for production.
 
 # Data reference
 https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
