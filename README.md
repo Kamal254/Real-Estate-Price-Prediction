@@ -55,7 +55,9 @@
 
 # References
 **Data:** https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
+
 **Project Tutorial:** https://www.youtube.com/watch?v=rdfbcdP75KI&list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg
+
 **Data Analysis:** https://intellipaat.com/blog/python-for-data-science/
 
 
